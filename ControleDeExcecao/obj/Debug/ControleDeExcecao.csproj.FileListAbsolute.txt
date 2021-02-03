@@ -1,0 +1,7 @@
+C:\Curso C# SENAI\ControleDeExcecao\bin\Debug\ControleDeExcecao.exe.config
+C:\Curso C# SENAI\ControleDeExcecao\bin\Debug\ControleDeExcecao.exe
+C:\Curso C# SENAI\ControleDeExcecao\bin\Debug\ControleDeExcecao.pdb
+C:\Curso C# SENAI\ControleDeExcecao\obj\Debug\ControleDeExcecao.csprojAssemblyReference.cache
+C:\Curso C# SENAI\ControleDeExcecao\obj\Debug\ControleDeExcecao.csproj.CoreCompileInputs.cache
+C:\Curso C# SENAI\ControleDeExcecao\obj\Debug\ControleDeExcecao.exe
+C:\Curso C# SENAI\ControleDeExcecao\obj\Debug\ControleDeExcecao.pdb
